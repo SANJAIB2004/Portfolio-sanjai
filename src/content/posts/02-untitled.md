@@ -1,9 +1,19 @@
 ---
-title: "Untitled"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "untitled"
+title: "Achievements and Certifications"
+publishedAt: 2024-03-13
+description: "My Certificates and Achievements"
+slug: "Certificates and Achievements"
 isPublish: true
 ---
 
-## Hello World
+## Certificates
+
+- ### Master in java in Udemy
+- ### Python Certification in GUVI
+- ### Learn DSA in c & c++ in Udemy
+- ### SQL Certifications in HackerRank
+
+## Achievements
+
+- ### LeetCode - "https://leetcode.com/sanjaib/"
+- ### HackerRank - "https://hackerrank.com/sanjaib"

@@ -2,26 +2,32 @@ export type Project = {
   title: string;
   techs: string[];
   link: string;
-  isComingSoon?: boolean;
+  isComingSoon?:boolean;
 };
 
 const projects: Project[] = [
   {
-    title: "Dictionary App",
-    techs: ["ReactJS (NextJS)", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "Talk to Max",
+    techs: ["Python", "Tkinter", "SQLite"],
+    link: "https://github.com/sanjaib2004",
   },
   {
-    title: "Portfolio / Lina BLIDI",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    title: "Music Management System",
+    techs: ["JAVA(JavaFX)", "MongoDB and mysql","Scenebuilder"],
+    link: "https://github.com/sivasakthi037/Music_Library_Management_System/tree/master",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
+    title: "Portfolio",
+    techs: ["Astro","Typescript","Tailwindcss"],
     link: "/",
-    isComingSoon: true,
   },
+  {
+    title:"Connect",
+    techs:["ReactJS","HonoJS API","SQlite","CloudFlare"],
+    link:"/",
+    isComingSoon:true
+    
+  }
 ];
 
 export default projects;

@@ -1,54 +1,41 @@
 ---
-title: "The Power Of React Hooks"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "the-power-of-react-hooks"
+title: "About me"
+publishedAt: 2024-03-13
+description: "I'm Sanjai a Student from CSE"
+slug: "About me"
 isPublish: true
 ---
 
-## Vocesque meum remis est neque Neptunus monte
+## Description
 
-Lorem markdownum nunc _adfuit_ fecisse, `quae pectus`, quod seu mortale suo
-Minerva iussit obortas. Favilla victa; alarum signis barbara, nec _sibi dentes_
-hostes?
 
-## Corporibus Leucon
+I am Sanjai, a student studying Computer Science and Engineering (CSE). I have a keen interest and proficient knowledge in various technical skills including HTML, CSS, JavaScript, React.js, Hono.js, Astro.js, Cloudflare, Vercel, Python, C, C++, and Java. I am enthusiastic about utilizing these skills to solve real-world problems and contribute to projects. I am eager to explore opportunities where I can apply my expertise and continue to learn and grow in the field of technology.
 
-Quaeque viridis, pariter possit. Velatus Thetis, ab Buten, in et ite positis
-annis ut Troasque altaque. Ancaeus convertit conscia Phinea petis. Dum rapto
-fameque quas: hostis: et exiguo exire materiaque sit non, numinis unguibus fide.
-Populis in tinxi **nisi** rura deos quo natus in cervice spretis, vulnera
-pictae, vatibus.
+## Skills
 
-> Illi tenebras si vultum suae. Matrem iam: iniqua adire, tetigere meque,
-> cessant, gerebat.
+  - **C Programming Language**
+  - **C++ Programming Language**
+  - **Python Programming Language**
+  - **JavaScript (JS)**
+  - **HTML**
+  - **CSS**
+  - **Java Programming Language**
+  - **Data Structures and Algorithms (DSA)**
+  - **React.js**
+  - **Hono.js**
+  - **Cloudflare**
 
-## Montes ignarus precor rogabam primus ridet sanguine
 
-In vir indefessus et patrios veniam. Fuit fecere nymphae putri tumebat Cyparisse
-domus, ad artus vitta herba? Et gaudet pressum aeterna animam. Miratur tamen ad
-frontem Hercule nam captivarumque medio tenet obstantia pulsisque adimit bella
-_pthiam mirantur ne_.
+## Projects
 
-> Lacertis et nomenque oracla exstabat: genitor nitor! Fluctus habes extinctum.
-> Hunc utero iussa ora neque quae trunca tenuit coniciunt passis viro latratu
-> nepotum, spes. Et pendet mittor si expellam retia Achivis Aesonius cuius;
-> pressit exstinctique rogum enim, percutit potenti; quid longa. Nostra animaque
-> genetrice viae, quam virus sermone in videri.
+ - ## Talk to MAX
 
-## Rapit harundine vana
+> Talk to max is the virtual assistant that will help the user to communicate easily and to get the needed information by asking to the virtual assistant by speech.
 
-Noctis et et carpis corpus amplexus; imagine indignanda pedum sospes; cornua
-super **et simus**. Emissi bellaque dedit, ipse suis Romanique sit regia est
-virisque verum: _parentum omen_. Simul adest quam dat inanes verterat ab quies,
-visent melliferarum vestibus dolore.
+- ## Music Library Management System
+> Music Library Management System is the Javafx project that will help you to easily store the songs and tracks in the library and also give the additional feature of user can add the playlist and also provide the best user experience.
 
-Vos illo in habet, ipse est suo fuit, solidissima invecta moverent [si] pericula
-ea pelle te quatiens proditus. Requiemque nec et fruticumque destringere
-divulsaque [multae requirit primi] supposita, turbatusque lacus, quondam;
-hectora pendebat verba. Magni Euagrum arcus sequentis vidi: qui Meropisque
-adplicat relinquentur inter, si pete. Magna constitit ore rediit et parentis
-pomaria lumina seque aura.
+- ## Portfolio 
 
-[multae requirit primi]: http://heu.io/
-[si]: http://infelixlucina.net/mutati
+>I made my own Portfolio with *ASTROJS* framework using the tailwindcss and typescript.It will show my skills and projects in the websites. 
+
