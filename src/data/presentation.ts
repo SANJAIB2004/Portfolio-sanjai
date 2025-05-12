@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m SANJAI 👋",
   // profile: "/profile.webp",
   description:
-    " I'm a *Student*, frontend developer ,designer. I am currently working with the Project *Connect* using *ReactJS , Typescript ,SQlite and HonoJS API ,CloudFlare to deploy *. Currently  learning TypeScript and AstroJS.",
+    " I'm a *Student*, FullStack developer(Django) and ML&DL Engineer. I am currently working with the Project *RealTime problem statement* using *Django , Mysql , Html , Css, JavaScript*. Currently  learning Gen AI.",
   socials: [
     {
       label: "Linkedin",

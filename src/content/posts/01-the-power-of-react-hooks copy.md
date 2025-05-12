@@ -9,33 +9,58 @@ isPublish: true
 ## Description
 
 
-I am Sanjai, a student studying Computer Science and Engineering (CSE). I have a keen interest and proficient knowledge in various technical skills including HTML, CSS, JavaScript, React.js, Hono.js, Astro.js, Cloudflare, Vercel, Python, C, C++, and Java. I am enthusiastic about utilizing these skills to solve real-world problems and contribute to projects. I am eager to explore opportunities where I can apply my expertise and continue to learn and grow in the field of technology.
+I am Sanjai, a student studying Computer Science and Engineering (CSE). I have a keen interest and proficient knowledge in various technical skills including  Python , Django , Machine Learning and Deep Learning , SQL. I am enthusiastic about utilizing these skills to solve real-world problems and contribute to projects. I am eager to explore opportunities where I can apply my expertise and continue to learn and grow in the field of technology.
 
 ## Skills
 
-  - **C Programming Language**
-  - **C++ Programming Language**
-  - **Python Programming Language**
-  - **JavaScript (JS)**
+
+  - **Python**
+  - **Django**
+  - **Machine Learning and Deep Learning**
+  - **Gen AI**
+  - **JavaScript (Basics)**
   - **HTML**
   - **CSS**
-  - **Java Programming Language**
+  - **Java(Basics)**
   - **Data Structures and Algorithms (DSA)**
-  - **React.js**
-  - **Hono.js**
+  - **AWS(Basics)**
   - **Cloudflare**
+  - **Scikit Learn**
+  - **Git and Github**
+  - **Selenium(Basics)**
+
 
 
 ## Projects
 
- - ## Talk to MAX
+ - ##  Blog Application with User Authentication
 
-> Talk to max is the virtual assistant that will help the user to communicate easily and to get the needed information by asking to the virtual assistant by speech.
+> Created a feature-rich blogging platform where users can write, edit, and delete posts. 
+> Integrated authentication (signup, login, logout) and user profile management. 
+> Added a comment system and like functionality using Django models. 
+## Tech Stack: Django, Python, Bootstrap, mySql 
 
-- ## Music Library Management System
-> Music Library Management System is the Javafx project that will help you to easily store the songs and tracks in the library and also give the additional feature of user can add the playlist and also provide the best user experience.
+- ## Real-Time Chat Application
 
-- ## Portfolio 
+> Developed a real-time chat system where users can communicate instantly. 
+> Implemented one-on-one messaging, group chats, and chat history storage. 
+> Used Django Channels and WebSockets to enable real-time message exchange. 
+> Integrated user authentication, online status indicators, and message notifications. 
+## Tech stack Django, Django Channels, WebSockets, JavaScript, SQLite 
 
->I made my own Portfolio with *ASTROJS* framework using the tailwindcss and typescript.It will show my skills and projects in the websites. 
+- ##  HoardView
+
+>Developed  an AI Application made with Computer vision and Neutral Network that used to detect illegal hoarding boards 
+in the major cities and report to authorities. Helps to learn new technologies that made me learn   empower in the emerging  
+technologies in the competitive fields. 
+## Tech stack Python,Hugging Face,TensorFlow,tesseract,computer vision. 
+
+- ## Traffic Sign Board Detection Using CNN 
+
+> This project demonstrates the effectiveness of CNNs in traffic sign recognition. The developed model shows high accuracy 
+reliable classification across various traffic sign categories. Future improvements could focus on optimizing the model  for 
+deployment in real-time autonomous driving systems.  
+## Tech stack Python,DeepLearning,OpenCV,CNN,Streamlit
+
+
 

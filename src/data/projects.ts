@@ -7,25 +7,25 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Talk to Max",
-    techs: ["Python", "Tkinter", "SQLite"],
-    link: "https://github.com/sanjaib2004",
+    title: "Blog Application with User Authentication",
+    techs: ["Django", "mySql", "HTML", "TailwindCss", "JavaScript"],
+    link: "https://github.com/sanjaib2004/blog_app",
   },
   {
-    title: "Music Management System",
-    techs: ["JAVA(JavaFX)", "MongoDB and mysql","Scenebuilder"],
-    link: "https://github.com/sivasakthi037/Music_Library_Management_System/tree/master",
+    title: "Real-Time Chat Application",
+    techs: ["Django", "Django Channels", "WebSockets", "JavaScript", "SQLite"],
+    link: "https://github.com/SANJAIB2004/MovieSerializer",
   },
   {
-    title: "Portfolio",
-    techs: ["Astro","Typescript","Tailwindcss"],
-    link: "/",
+    title: "HoardView",
+    techs: ["Python,Hugging Face,TensorFlow,tesseract,computer vision."],
+    link: "https://github.com/SANJAIB2004/HOARDVIEW",
   },
   {
-    title:"Connect",
-    techs:["ReactJS","HonoJS API","SQlite","CloudFlare"],
-    link:"/",
-    isComingSoon:true
+    title:"Traffic Sign Board Detection Using CNN ",
+    techs:["Python,DeepLearning,OpenCV,CNN,Streamlit"],
+    link:"https://github.com/SANJAIB2004/Traffic_symbol_detector_cnn",
+    
     
   }
 ];
